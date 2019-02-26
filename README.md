@@ -14,5 +14,5 @@ adasdasdsdasdasdasdasdasdsadasda
 ### Diagrama de arquitectura Básica
 
 ![Diagrama de flujo del colisionador](
-        /images/BasicDiag1.png
+        /images/BasicDiag1.jpg
       )
